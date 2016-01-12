@@ -1,5 +1,5 @@
 # guac
 > guacamole tutorial
-------------
+----
 
-<www.nber.org>
+<http://www.nber.org>
