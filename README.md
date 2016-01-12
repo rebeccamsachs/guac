@@ -1,2 +1,5 @@
 # guac
-guacamole tutorial
+> guacamole tutorial
+------------
+
+<www.nber.org>
